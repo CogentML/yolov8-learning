@@ -1,0 +1,6 @@
+# data.yaml
+train: D:/Aryan_Intern/yolov8-learning/dataset/images/train
+val: D:/Aryan_Intern/yolov8-learning/dataset/images/val
+
+nc: 1 # number of classes
+names: ["Car"]
